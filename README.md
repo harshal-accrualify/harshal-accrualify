@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 <p><h3>Learning:</h3>  </p>
 
-![ReactNative](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React%20Js&logoColor=white)
+![React Native](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=React%20Native&logoColor=white)
 
 
 <br>
