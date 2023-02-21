@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-deshattiwar&langs_count=3&theme=highcontrast" alt="harshal-deshattiwar" />
-<img  src="https://github-readme-stats.vercel.app/api?username=harshal-deshattiwar&show_icons=true&theme=highcontrast&locale=en" alt="harshal-deshattiwar" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-accrualify&langs_count=3&theme=highcontrast" alt="harshal-deshattiwar" />
+<img  src="https://github-readme-stats.vercel.app/api?username=harshal-accrualify&show_icons=true&theme=highcontrast&locale=en" alt="harshal-deshattiwar" /></p>
  <!---
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-deshattiwar&theme=dark" alt="harshal-deshattiwar" /></p> --->
